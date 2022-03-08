@@ -1,0 +1,23 @@
+.Appp {
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    box-shadow: 22px 16px 30px rgba(56, 125, 255, 0.17),-22px 16px 30px rgba(241, 198, 6, 0.17);
+    
+  }
+  .cont{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  @media screen and (max-width: 960px) {
+      .Appp{
+         height:auto;
+         width: 100%;
+          margin-top:50px;
+          margin-bottom: 50px;
+
+          box-shadow: 5px 10px 10px rgba(4, 48, 131, 0.17),0px 21px 10px rgba(245, 6, 6, 0.17);
+      }
+      }

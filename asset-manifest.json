@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/artholding/static/css/main.dc71fcc6.chunk.css",
+    "main.js": "/artholding/static/js/main.85c9c197.chunk.js",
+    "main.js.map": "/artholding/static/js/main.85c9c197.chunk.js.map",
+    "runtime-main.js": "/artholding/static/js/runtime-main.58dab506.js",
+    "runtime-main.js.map": "/artholding/static/js/runtime-main.58dab506.js.map",
+    "static/css/2.c99d76b9.chunk.css": "/artholding/static/css/2.c99d76b9.chunk.css",
+    "static/js/2.bf7761bb.chunk.js": "/artholding/static/js/2.bf7761bb.chunk.js",
+    "static/js/2.bf7761bb.chunk.js.map": "/artholding/static/js/2.bf7761bb.chunk.js.map",
+    "index.html": "/artholding/index.html",
+    "static/css/2.c99d76b9.chunk.css.map": "/artholding/static/css/2.c99d76b9.chunk.css.map",
+    "static/css/main.dc71fcc6.chunk.css.map": "/artholding/static/css/main.dc71fcc6.chunk.css.map",
+    "static/js/2.bf7761bb.chunk.js.LICENSE.txt": "/artholding/static/js/2.bf7761bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58dab506.js",
+    "static/css/2.c99d76b9.chunk.css",
+    "static/js/2.bf7761bb.chunk.js",
+    "static/css/main.dc71fcc6.chunk.css",
+    "static/js/main.85c9c197.chunk.js"
+  ]
+}
